@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aurel 👋
 
-<!--
-**aurelC08/aurelC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Who Am I?
+I'm a Computer Science Undergraduate located in the South of England.
+I'm knee-deep in side & big projects, programming and general note-taking into Computer Science theory.
 
-Here are some ideas to get you started:
+## 🚧 What I'm Working On
+- 🦀 Learning Rust and C++ for systems-level programming
+- 🔧 Experimenting with embedded electronics (ESP32 / Raspberry Pi)
+- 📚 Documenting my learning journey here in Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Me
+- 📷 Instagram: https://www.instagram.com/9urell/
+- 💬 Discord: 6urel
